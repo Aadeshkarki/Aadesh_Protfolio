@@ -1,0 +1,13 @@
+@media screen and (min-width:850px){
+    
+nav{
+    max-width: 1200px;
+    margin: 17px 0 0 3rem;
+    
+}
+nav li:first-child{
+    flex-basis: auto;
+    text-align: left;
+    margin-right: auto;
+}
+}
